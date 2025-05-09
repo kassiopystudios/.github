@@ -45,5 +45,5 @@ has been developing content for Minecraft Bedrock Edition for +4 years and speci
 His speciality is the creation of custom particles and he is the main developer of the London RP fireworks show, he has a vast experience in the development of fireworks shows into Minecraft.
 <br>
 ## Caco
-<img src="https://github.com/user-attachments/assets/da4158f9-9aca-430b-9740-043612b1226b" alt="caco1778-profile" width="200"> <br>
+<img src="https://github.com/user-attachments/assets/88a785cc-c8a8-4e19-8ffc-bbf26c467d32" alt="caco1778-profile" width="200"> <br>
 He is in charge of making our texture packs / add-ons compatible with RTX by creating dedicated textures for that purpose, he also creates 3D models and has a great experience creating add-ons for +4 years.

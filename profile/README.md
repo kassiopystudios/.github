@@ -37,7 +37,7 @@ Some of the additional features that the Bedrock Edition will have are:
 
 ![image](https://github.com/user-attachments/assets/2f6f15ea-f550-4317-8a7e-6f7a116f88ad)
 ![image](https://github.com/user-attachments/assets/5fe9bbd3-34f1-40f6-85f1-344e398123c6)
-
+<img width="1920" height="1080" alt="3Dbin" src="https://github.com/user-attachments/assets/c4956b47-02ad-4fbe-b498-6e49e2a38896" />
 
 # Team
 ## Tute

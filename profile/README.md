@@ -1,19 +1,23 @@
 # kassiopy studios
 A team dedicated to creating unique experiences for minecraft bedrock, standing out for the quality and innovation present in each experience.
 # Projects
-## London RP
+## London in Minecraft
 ![image](https://github.com/user-attachments/assets/2e686b3a-29ba-4737-a8ce-876327ba5d12)
 Every year we put on an event that recreates the London fireworks show with a high level of detail, including hundreds of customized particles and music sync.
-On our youtube channel @londonrp we have already accumulated +100k views of our fireworks display.
-![image](https://github.com/user-attachments/assets/ea4c9ef9-9bc1-4c4b-9450-2f880a54faa0)
+<img width="1492" height="820" alt="{EE179B63-CBAB-41A5-820D-A87AAB8B6D5F}" src="https://github.com/user-attachments/assets/56545f8e-7491-4303-99e5-20335fb4fe0a" />
 <br>
-
-## Cubed Pack: Bedrock Edition
+<br>
+<br>
+<br>
+<br>
+<br>
+<img width="1419" height="147" alt="title" src="https://github.com/user-attachments/assets/4e027f07-80d7-47aa-9b4d-e7ce154b9727" />
+<hr>
 Cubed is a great minecraft java community, they have a creative server in which they use a unique custom texture pack, this texture pack is available for Minecraft Java 1.14 however due to the technicalities behind the pack, it had been impossible (until now) to bring this experience to Minecraft Bedrock and now finally and officially from Cubed in collaboration with kassiopy studios, the Cubed Pack will finally be available for Minecraft Bedrock Edition.
 <br>
 Some of the additional features that the Bedrock Edition will have are:
 
-🌟 RTX compatibility <br>
+🌟 Vibrant Visuals Compatible <br>
 🌟 Multi-Interactive Blocks <br>
 🌟 Builder friendly <br><br>
 🌟 Multi-Language support<br>

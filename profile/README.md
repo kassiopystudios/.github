@@ -3,7 +3,7 @@ A team dedicated to creating unique experiences for minecraft bedrock, standing 
 # Projects
 ## London in Minecraft
 ![image](https://github.com/user-attachments/assets/2e686b3a-29ba-4737-a8ce-876327ba5d12)
-Every year we put on an event that recreates the London fireworks show with a high level of detail, including hundreds of customized particles and music sync.
+Every year we put on an event that recreates the London Fireworks show with a high level of detail, including hundreds of customized particles and music sync.
 <img width="1492" height="820" alt="{EE179B63-CBAB-41A5-820D-A87AAB8B6D5F}" src="https://github.com/user-attachments/assets/56545f8e-7491-4303-99e5-20335fb4fe0a" />
 <br>
 <br>
@@ -11,27 +11,15 @@ Every year we put on an event that recreates the London fireworks show with a hi
 <br>
 <br>
 <br>
-<img width="1419" height="147" alt="title" src="https://github.com/user-attachments/assets/4e027f07-80d7-47aa-9b4d-e7ce154b9727" />
+<img width="1946" height="176" alt="Title" src="https://github.com/user-attachments/assets/68fd1597-98a1-42f9-816c-4438abec9e33" />
 <hr>
-Cubed is a great minecraft java community, they have a creative server in which they use a unique custom texture pack, this texture pack is available for Minecraft Java 1.14 however due to the technicalities behind the pack, it had been impossible (until now) to bring this experience to Minecraft Bedrock and now finally and officially from Cubed in collaboration with kassiopy studios, the Cubed Pack will finally be available for Minecraft Bedrock Edition.
+Cubed is a great Minecraft Java community, they have a creative server in which they use a unique custom texture pack, this texture pack is available for Minecraft Java 1.14 however due to the technicalities behind the pack, it had been impossible (until now) to bring this experience to Minecraft Bedrock and now finally and officially from Cubed Community in collaboration with kassiopy studios, the Cubed Add-On will finally be available for Minecraft Bedrock Edition.
 <br>
 Some of the additional features that the Bedrock Edition will have are:
 
 🌟 Vibrant Visuals Compatible <br>
 🌟 Multi-Interactive Blocks <br>
 🌟 Builder friendly <br><br>
-🌟 Multi-Language support<br>
-[![en_GB](https://github.com/user-attachments/assets/a632be1d-e0f1-422f-8d9f-d1ae86329115)]()
-[![en_US](https://github.com/user-attachments/assets/2bc8eb63-def9-4b74-9a0c-c1e87f695ea5)]()
-[![es_ES](https://github.com/user-attachments/assets/13cf2fcc-6fe6-451c-b11c-78529e71a1c3)]()
-[![es_MX](https://github.com/user-attachments/assets/9ee2a6c3-1aad-44c4-be7e-bb05d5c3745f)]()
-[![pt_PT](https://github.com/user-attachments/assets/6c882913-cb97-4baa-999d-61ed0ef1fe7e)]()
-[![pt_BR](https://github.com/user-attachments/assets/fc2e576b-f52e-4938-b79a-d542a6839981)]()
-[![ru_RU](https://github.com/user-attachments/assets/719c0fba-352b-4c56-a31c-cb19065abab4)]()
-[![zh_CH](https://github.com/user-attachments/assets/aca3a7a9-d2fc-4aed-94fa-654d4c0f8f2d)]()
-[![ja_JP](https://github.com/user-attachments/assets/9cfb5917-7913-40fd-84e6-99ad8ace3fb3)]()
-<br>
-[![translated_with_DeepL_EN](https://github.com/user-attachments/assets/7041d28a-55d4-47e5-9fda-d19099487e3c)](https://www.deepl.com/en/whydeepl)
 
 **Disclaimer: all images shown below do not represent the final product and are still under development.**
 
